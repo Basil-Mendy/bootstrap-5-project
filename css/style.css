@@ -1,0 +1,75 @@
+.navbar a{
+ text-decoration: none; color: white;
+}
+
+.section hero-container{
+    color: white;
+    height: auto;
+    width: auto;
+    background-color: aqua;
+   background-image: url('../images/fullstack-dev.jpeg');
+   padding: 20px 70px;
+}
+
+.hero-container{
+    color: white;
+}
+
+
+#collapsibleNavbar{
+    color: white;
+}
+
+@media(min-width: 768px){
+    .news-input{
+        width: 50%;
+    }
+}
+
+.card img{
+    width: 100px;
+}
+
+.section-7.carousel img{
+    height: 40px;
+    width: auto;
+}
+
+.section-8{
+    margin-top: 50px;
+}
+
+.ruler{
+    border-top: 5px dashed green;
+}
+
+.nav-item{
+    background-color: rgb(5, 5, 22);
+    color: white;
+    margin: 2px 0px 0px 0px;
+}
+
+.nav-item:hover{
+    background-color: rgb(8, 8, 41);
+}
+
+.nav-item a{
+    color: white;
+}
+
+.bottom{
+    text-size-adjust: 5px;
+}
+
+.section.footer img{
+    height: 80px;
+    width: auto;
+}
+
+.ourprices img{
+    height: 20px;
+}
+
+.section-10 img{
+    width: 300px;
+}
